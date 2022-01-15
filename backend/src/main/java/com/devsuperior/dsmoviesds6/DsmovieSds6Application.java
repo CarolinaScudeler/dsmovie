@@ -1,13 +1,13 @@
-package com.devsuperior.dsmoviesds4;
+package com.devsuperior.dsmoviesds6;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DsmovieSds4Application {
+public class DsmovieSds6Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DsmovieSds4Application.class, args);
+		SpringApplication.run(DsmovieSds6Application.class, args);
 	}
 
 }
