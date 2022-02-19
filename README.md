@@ -13,6 +13,7 @@ Utilizando ReactJS no front-end para consumir uma API feita em Java com Spring B
 - Front-end
   - ReactJS
   - TypeScript
+  - Axios
 - Back-end
   - Java
   - Spring Boot
