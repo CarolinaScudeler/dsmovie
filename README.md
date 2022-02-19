@@ -1,5 +1,8 @@
 <h1 align="center">:tv: DS Movie</h1>
-<p align="center">Projeto realizado durante a Semana Spring React 6.0 da DevSuperior</p>
+<div align="center">
+  <p>Projeto realizado durante a Semana Spring React 6.0 da DevSuperior</p>
+  <img src="https://imgur.com/Ef4W3zz.png" width="600px">
+</div>
 
 # 📖 Sobre
 <p>Aplicação de catálogo de filmes, envolvendo a interação dos usuários através das avaliações dos filmes listados. 
