@@ -56,3 +56,13 @@ yarn install
 # executar o projeto
 yarn start
 ```
+
+---
+
+Feito com :purple_heart: by [Carolina Scudeler](https://github.com/CarolinaScudeler)
+
+<div>
+  <a href="https://www.linkedin.com/in/carolinascudeler/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
