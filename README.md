@@ -29,13 +29,15 @@ Utilizando ReactJS no front-end para consumir uma API feita em Java com Spring B
 
 <h1>▶️ Como executar o projeto</h1>
 
+```bash
+# clonar repositório
+git clone https://github.com/CarolinaScudeler/dsmovie-sds6
+```
+
 <h2>Back end</h2>
 Pré-requisitos: Java 11
 
 ```bash
-# clonar repositório
-git clone https://github.com/CarolinaScudeler/dsmovie-sds6
-
 # entrar na pasta do projeto back-end
 cd backend
 
@@ -47,9 +49,6 @@ mvn spring-boot:run
 Pré-requisitos: yarn
 
 ```bash
-# clonar repositório
-git clone https://github.com/CarolinaScudeler/dsmovie-sds6
-
 # entrar na pasta do projeto front-end
 cd frontend
 
